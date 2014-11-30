@@ -1,0 +1,29 @@
+QLineEdit {
+background-color: rgb(255, 255, 255);
+border: 1px solid green;
+border-radius:8px;
+}
+QComboBox {
+background-color: rgb(255, 255, 255);
+border:1px solid green;
+border-radius:8px;
+}
+QListWidget {
+background-color: rgb(255, 255, 255);
+border: 1px solid green;
+border-radius:8px
+}
+QPushButton {
+background-color: rgb(255, 255, 255);
+border:1px solid green;
+border-radius:8px
+}
+QWidget{
+background-color: rgb(248, 255, 254);
+border-radius:8px;
+}
+QTabWidget{
+background-color: white;
+border:1px solid black;
+border-radius:8px;
+}
